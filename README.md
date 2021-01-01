@@ -1,11 +1,13 @@
 <h1>Hi there 👋</h1>
 
-- 🌱 I’m currently learning **Distributed Systems, Computer Graphics, and Statistics**
-- 🔭 I’m also working on **some personal projects**
-- 👯 I’m up for collaboration on **research in computer graphics**
+- 🌱 &nbsp; I’m currently learning **Distributed Systems, Computer Graphics, and Statistics**
+- 🔭 &nbsp; I’m also working on **some personal projects**
+- 👯 &nbsp; I’m up for collaboration on **research in computer graphics**
 
 
-### Connect with me on: [Linkedin](https://linkedin.com/in/iamsahilagrawal)
+### Connect with me on:  <a href="https://www.linkedin.com/in/iamsahilagrawal/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;</p>
+  
+
 
 
 
