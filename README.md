@@ -42,4 +42,6 @@
 
 ### Recent Blogs
 <!-- BLOG-POST-LIST:START -->
+- [HTTP Methods and Status Codes](https://medium.com/@sahil1918/http-methods-and-status-codes-e322a98a90c?source=rss-5eb12e9e8020------2)
+- [What is RESTful API?](https://medium.com/@sahil1918/what-is-restful-api-b0d1e539ed0?source=rss-5eb12e9e8020------2)
 <!-- BLOG-POST-LIST:END -->
