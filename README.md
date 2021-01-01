@@ -5,7 +5,20 @@
 - 👯 &nbsp; I’m up for collaboration on **research in computer graphics**
 
 
-### Connect with me on:  <a href="https://www.linkedin.com/in/iamsahilagrawal/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;</p>
+### Connect with me on:
+<p >
+  
+  <!--<a href="https://wa.me/5518996643974?text=Olá!%20Alexandre">
+    <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />    
+  </a>&nbsp;&nbsp;-->
+  <a href="https://www.linkedin.com/in/iamsahilagrawal/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://instagram.com/swagghill">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  
+</p>
   
 
 
