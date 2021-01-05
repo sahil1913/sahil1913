@@ -1,8 +1,8 @@
 <h1>Hi there 👋</h1>
 
-- 🌱 &nbsp; I’m currently learning **Distributed Systems, Computer Graphics, and Statistics**
+- 🌱 &nbsp; I’m currently learning **Distributed Systems, Computer Vision, and Statistics**
 - 🔭 &nbsp; I’m also working on **some personal projects**
-- 👯 &nbsp; I’m up for collaboration on **research in computer graphics**
+- 👯 &nbsp; I’m up for collaboration on **research in computer graphics and computer vision**
 
 
 ### Connect with me on:
