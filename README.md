@@ -26,9 +26,9 @@
 
 <h3 align="left">I write code and about code here:</h3>
 <p align="left">
-<a href="https://medium.com/@sahil1918" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@sahil1918" height="30" width="40" /></a>
+<a href="https://medium.com/@sahil1913" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@sahil1918" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sahil1918" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="sahil1918" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sahil1918" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="sahil1918" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/sahil1913" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="sahil1918" height="30" width="40" /></a>
 </p>
 <!-- <a href="https://auth.geeksforgeeks.org/user/sahil1918" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="sahil1918" height="30" width="40" /></a> -->
 
@@ -51,6 +51,6 @@
 
 ### Recent Blogs
 <!-- BLOG-POST-LIST:START -->
-- [HTTP Methods and Status Codes](https://sahil1918.medium.com/http-methods-and-status-codes-e322a98a90c?source=rss-5eb12e9e8020------2)
-- [What is RESTful API?](https://sahil1918.medium.com/what-is-restful-api-b0d1e539ed0?source=rss-5eb12e9e8020------2)
+- [HTTP Methods and Status Codes](https://sahil1913.medium.com/http-methods-and-status-codes-e322a98a90c?source=rss-5eb12e9e8020------2)
+- [What is RESTful API?](https://sahil1913.medium.com/what-is-restful-api-b0d1e539ed0?source=rss-5eb12e9e8020------2)
 <!-- BLOG-POST-LIST:END -->
